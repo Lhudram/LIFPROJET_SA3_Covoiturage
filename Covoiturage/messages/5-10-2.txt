@@ -1,0 +1,4 @@
+516#a#a#02/04/2019#
+L'utilisateur souhaite voyager;
+Le conducteur indique que son voyage accepte les Animaux,accepte les Enfants;
+L'utilisateur indique qu'il est Fumeur et accepte de voyager dans un voyage non fumeur accepte un voyage avec des animaux, n'accepte pas de voyage avec des enfants;

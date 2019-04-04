@@ -1,0 +1,4 @@
+710#z#z#02/04/2019#
+L'utilisateur souhaite voyager;
+Le conducteur indique que son voyage accepte les Enfants;
+L'utilisateur indique qu'il est Fumeur et n'accepte pas de voyager dans un voyage non fumeur n'accepte pas de voyage avec des enfants;
